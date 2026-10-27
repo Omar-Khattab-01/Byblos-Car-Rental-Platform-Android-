@@ -1,3 +1,3 @@
-# Project Assets
+# Project Overview
 
-Place architecture diagrams, UX mockups, and screenshots in this folder to accompany the README.
+My project overview is in the [main README](../README.md).
